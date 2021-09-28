@@ -6,3 +6,6 @@ This is a code for a virtual painter that uses AI to draw over the webcam feed i
 ![Computer Vision](https://github.com/AbhinavArya1990/Virtual_painter/blob/main/hands%20mediapipe.JPG)
 
 The information gathered from the landmarks is used to identify the hand's exact location and gesture and using OpenCV and drawing utilities of mediapipe, drawing can be done on the live feed from the webcam as shown below.
+
+
+<img src= 'https://github.com/AbhinavArya1990/AbhinavArya1990/blob/main/name_writing.gif' width=256 />
